@@ -1,3 +1,4 @@
+![logo](https://github.com/prat-eek17/prat-eek17/blob/main/Github-Banner.png)
 <h1 align="center">Hi 👋, I'm Prateek Katare</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
